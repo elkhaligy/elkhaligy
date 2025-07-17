@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Shehab Elkhaligy</h1>
+<h3 align="center">Motivated and results-driven Software Engineer with a strong foundation in building reliable and efficient systems.</h3>
+
+---
+
+### 🧠 About Me
+- 💻 I specialize in **.NET backend development**, building robust systems using **ASP.NET**, **Entity Framework**, and **SQL Server**  
+- 🚀 I'm passionate about clean architecture, scalable backend design, and delivering real-world applications  
+- 📚 I graduated from the **ITI 9-Month PWD program**, where I developed multiple full-stack and backend projects  
+- 🌱 Currently sharpening my skills in **Angular**, **Clean Architecture**, and **Onion Architecture with CQRS**  
+- 💬 Ask me about C#, EF, WinForms, ASP.NET MVC/Web API, and software design
+
 ---
 
 ### 🛠️ Tech Stack
@@ -40,3 +52,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
 </p>
+
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elkhaligy&show_icons=true&theme=radical" alt="elkhaligy stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elkhaligy&theme=radical" alt="elkhaligy streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhaligy&layout=compact&theme=radical" alt="elkhaligy langs" />
+</p>
+
+---
+
+### 📈 Visitor Count
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=elkhaligy&label=Profile%20views&color=0e75b6&style=flat" alt="elkhaligy" />
+</p>
+
+
