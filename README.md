@@ -3,12 +3,18 @@
 
 ---
 
-### 🧠 About Me
-- 💻 I specialize in **.NET backend development**, building robust systems using **ASP.NET**, **Entity Framework**, and **SQL Server**  
-- 🚀 I'm passionate about clean architecture, scalable backend design, and delivering real-world applications  
-- 📚 I graduated from the **ITI 9-Month PWD program**, where I developed multiple full-stack and backend projects  
-- 🌱 Currently sharpening my skills in **Angular**, **Clean Architecture**, and **Onion Architecture with CQRS**  
-- 💬 Ask me about C#, EF, WinForms, ASP.NET MVC/Web API, and software design
+🧠 About Me
+- 💻 I'm a software engineer with experience across multiple programming languages, frameworks, and architectural patterns
+
+- 🚀 I specialize in building scalable, maintainable backend systems, with a focus on clean code and real-world problem-solving
+
+- 📚 A graduate of the ITI 9-Month PWD program, where I worked on various full-stack and backend projects using modern technologies
+
+- 🌱 Continuously exploring technologies like Clean Architecture, Onion Architecture with CQRS, and modern frontend frameworks
+
+- 💬 Comfortable working across .NET, Rails, Angular, and more — always eager to take on complex software challenges
+
+
 
 ---
 
