@@ -30,9 +30,9 @@
 
 #### 🧱 Backend Frameworks
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />
+  <img src="https://en.m.wikipedia.org/wiki/File:Microsoft_.NET_logo.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" width="40" />
+  <img src="https://en.wikipedia.org/wiki/File:Node.js_logo.svg" width="40" />
 </p>
 
 #### 🌐 Frontend
